@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Estevez Vargas</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-carlos-estevez-vargas&label=Profile%20views&color=0e75b6&style=flat" alt="juan-carlos-estevez-vargas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juan-carlos-estevez-vargas" alt="juan-carlos-estevez-vargas" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on [Estevez Corporation](https://github.com/Juan-Carlos-Estevez-Vargas/Estevez-Corporation)
 
 - 🌱 I’m currently learning **spring, devops**
