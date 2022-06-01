@@ -99,4 +99,9 @@
 
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-carlos-estevez-vargas&show_icons=true&locale=en&layout=compact" alt="juan-carlos-estevez-vargas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-carlos-estevez-vargas&show_icons=true&locale=en&layout=compact" alt="juan-carlos-estevez-vargas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juan-carlos-estevez-vargas&show_icons=true&locale=en" alt="juan-carlos-estevez-vargas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-carlos-estevez-vargas&" alt="juan-carlos-estevez-vargas" /></p>
+
