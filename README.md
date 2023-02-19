@@ -1,9 +1,12 @@
+[![Header](https://raw.githubusercontent.com/Juan-Carlos-Estevez-Vargas/Juan-Carlos-Estevez-Vargas/master/banner.png "Header")](https://juan-carlos-estevez-vargas.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm Juan Carlos Estevez Vargas</h1>
 
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
-🔭 I’m currently working on Softtek<br>👯 I’m looking to collaborate on my Youtube Channel<br>🌱 I’m currently learning DevOps, Spring, etc<br>⚡ I'm study Systems Engineer<br>👨‍💻 All of my projects are available at [https://juan-carlos-estevez-vargas.netlify.app/](https://juan-carlos-estevez-vargas.netlify.app/)
+🔭 I’m currently working on Softtek<br>👯 I’m looking to collaborate on my Youtube Channel<br>🌱 I’m currently learning DevOps, Spring, etc<br>⚡ I'm study Systems Engineer<br>👨‍💻 All of my projects are available at [my Portfolio](https://juan-carlos-estevez-vargas.netlify.app/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-carlos-estevez-vargas&label=Profile%20views&color=0e75b6&style=flat" alt="juan-carlos-estevez-vargas" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/juancarlos.estevezvargas.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juankestevez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-carlos-estevez-vargas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@apuntesdeuningeniero) 
@@ -29,16 +32,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Juan-Carlos-Estevez-Vargas&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-carlos-estevez-vargas&label=Profile%20views&color=0e75b6&style=flat" alt="juan-carlos-estevez-vargas" /> </p>
-
-
-<div align="center">
-  <a href="https://paypal.me/JEstevezVargas" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
-  </a>
-</div>
-<br />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
