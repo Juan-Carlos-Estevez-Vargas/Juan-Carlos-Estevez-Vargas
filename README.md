@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Juan-Carlos-Estevez-Vargas/Juan-Carlos-Estevez-Vargas/master/banner.png "Header")](https://juan-carlos-estevez-vargas.netlify.app/)
+[![Header](https://raw.githubusercontent.com/Juan-Carlos-Estevez-Vargas/Juan-Carlos-Estevez-Vargas/master/header.jpg "Header")](https://juan-carlos-estevez-vargas.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Juan Carlos Estevez Vargas</h1>
 
