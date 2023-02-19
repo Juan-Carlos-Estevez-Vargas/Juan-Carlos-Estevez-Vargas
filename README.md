@@ -1,10 +1,10 @@
 [![Header](https://raw.githubusercontent.com/Juan-Carlos-Estevez-Vargas/Juan-Carlos-Estevez-Vargas/master/header.jpg "Header")](https://juan-carlos-estevez-vargas.netlify.app/)
 
-<h1 align="center">Hi 👋, I'm Juan Carlos Estevez Vargas</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Juan Carlos Estevez Vargas</h1>
 
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
-🔭 I’m currently working on Softtek<br>👯 I’m looking to collaborate on my Youtube Channel<br>🌱 I’m currently learning DevOps, Spring, etc<br>⚡ I'm study Systems Engineer<br>👨‍💻 All of my projects are available at [my Portfolio](https://juan-carlos-estevez-vargas.netlify.app/)
+🔭 I’m currently working on [Softtek](https://www.softtek.com/) <br>👯 I’m looking to collaborate on my [Youtube Channel](https://youtube.com/@apuntesdeuningeniero)<br>🌱 I’m currently learning DevOps, Spring, etc<br>⚡ I'm study Systems Engineer<br>👨‍💻 All of my projects are available at [my Portfolio](https://juan-carlos-estevez-vargas.netlify.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-carlos-estevez-vargas&label=Profile%20views&color=0e75b6&style=flat" alt="juan-carlos-estevez-vargas" /> </p>
 
