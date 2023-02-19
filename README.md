@@ -13,15 +13,161 @@
 
 # 💻 Tech Stack:
 ### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>PHP</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>TypeScript</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+            </td>
+        </tr>
+    </tbody>
+</table> 
+
 ### Frameworks
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Angular</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Spring</strong></span><br>
+            <img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Sass</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Thymeleaf</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Thymeleaf_Logo_with_name_small.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Materialize</strong></span><br>
+            <img height="32px" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Testing Tools
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jasmine</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JUnit</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Mockito</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Databases
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>MariaDB</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Mariadb-seal-browntext.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>PostgreSQL</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>SQLite</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Oracle</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Other Tools
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Maven</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Postman</strong></span><br>
+            <img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Canva</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Swagger</strong></span><br>
+            <img height="32" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>NPM</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Arduino</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Juan-Carlos-Estevez-Vargas&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Carlos-Estevez-Vargas&theme=dracula&hide_border=false)<br/>
