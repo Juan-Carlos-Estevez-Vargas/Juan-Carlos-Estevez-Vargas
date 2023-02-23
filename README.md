@@ -129,9 +129,13 @@
 </table>
 
 ### Other Tools
-<table width="320px">
+<table width="320px"> 
     <tbody>
         <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Sonarqube</strong></span><br>
+            <img height="32px" src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg">
+            </td>
             <td width="80px" align="center">
             <span><strong>Maven</strong></span><br>
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
