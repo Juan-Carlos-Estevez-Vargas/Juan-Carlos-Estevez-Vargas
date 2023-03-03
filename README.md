@@ -182,5 +182,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Juan-Carlos-Estevez-Vargas&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
