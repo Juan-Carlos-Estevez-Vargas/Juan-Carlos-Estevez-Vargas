@@ -44,6 +44,10 @@
             <span><strong>TypeScript</strong></span><br>
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>C#</strong></span><br>
+            <img height="32px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+            </td>
         </tr>
     </tbody>
 </table> 
@@ -75,6 +79,14 @@
             <td width="80px" align="center">
             <span><strong>Materialize</strong></span><br>
             <img height="32px" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>.NET</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JHipster</strong></span><br>
+            <img height="32px" src="https://seeklogo.com/images/J/jhipster-logo-800862944E-seeklogo.com.png?v=637938474870000000">
             </td>
         </tr>
     </tbody>
