@@ -12,8 +12,6 @@
 
 <h2></h2>
 <div> 
-  <img align="right" src="./assets/programming.gif" height="560px" alt="pixel city image">
-  
   <h2 align="center">Software Developer <img src="./assets/animated-flame-01.gif" height="24px"/> of<img src="./assets/animated-flame-01.gif" height="24px"/> Colombia! </h2><br>
   
   🔭 I’m currently working on [Softtek](https://www.softtek.com/) <br>
@@ -34,7 +32,7 @@
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Juan-Carlos-Estevez-Vargas&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
-  <a href="https://wakatime.com/@godkingjay" target="_blank">
+  <a href="https://wakatime.com/@Juank_Estevez" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=Juan-Carlos-Estevez-Vargas&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
