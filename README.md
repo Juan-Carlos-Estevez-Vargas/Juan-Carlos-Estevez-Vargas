@@ -29,11 +29,11 @@
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2> <br>
   
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Juan-Carlos-Estevez-Vargas&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Carlos-Estevez-Vargas&theme=radical&langs_count=20&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages">
   <br>
 
   <a href="https://wakatime.com/@Juank_Estevez" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=Juan-Carlos-Estevez-Vargas&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juan-Carlos-Estevez-Vargas&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
   
@@ -47,9 +47,6 @@
   <h3> <strong> Databases </strong></h3>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases"> <br>
   
-  <h3> <strong> Testing Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,docker,dotnet,electron,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,vue" alt="Testing Tools"> <br>
-
   <h3> <strong> Other Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=maven,git,postman,arduino,gradle,matlab" alt="Other Tools"> <br>
 
