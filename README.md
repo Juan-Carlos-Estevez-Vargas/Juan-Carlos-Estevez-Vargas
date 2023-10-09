@@ -33,7 +33,7 @@
   <br>
 
   <a href="https://wakatime.com/@Juank_Estevez" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juan-Carlos-Estevez-Vargas&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanK_Estevez&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
   
