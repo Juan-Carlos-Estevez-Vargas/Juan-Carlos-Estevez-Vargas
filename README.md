@@ -25,14 +25,16 @@
 <img align="right" style="margin-top:50px" src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanK_Estevez&theme=radical&layout=compact" alt="Wakatime Coding Time" width="400">
 
 <h3 align="left">Programming Languages</h3>
-<div width=40%>
+<div width=30%>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,php,cpp,cs" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css" alt="Programming Languages"> <br>
+  <img src="https://skillicons.dev/icons?i=php,cpp,cs" alt="Programming Languages">
 </p>
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,nodejs,react,dotnet,express,sass,hibernate" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,nodejs,react,dotnet" alt="Frameworks"> <br>
+  <img src="https://skillicons.dev/icons?i=express,sass,hibernate" alt="Frameworks">
 </p>
 
 <h3 align="left">Databases</h3>
