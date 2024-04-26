@@ -25,6 +25,7 @@
 <img align="right" style="margin-top:50px" src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanK_Estevez&theme=radical&layout=compact" alt="Wakatime Coding Time" width="400">
 
 <h3 align="left">Programming Languages</h3>
+<div width=40%>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,php,cpp,cs" alt="Programming Languages">
 </p>
@@ -48,6 +49,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" alt="Cloud and Servers Tools">
 </p>
+</div>
 
 <h2 align="center">🏆 Github Stats</h2>
 
